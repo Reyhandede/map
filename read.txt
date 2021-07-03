@@ -1,0 +1,13 @@
+harita.html adlı html dosyasını açın.
+
+Haritadaki illere tıkla.
+
+	-İllerin sahip olduğu bilgilerin içeriğine ulaşabilirsiniz.
+
+harita.html adlı html dosyasında bulunan haritanın sağ alt köşesindeki
+coğrafi bölgelerin bulunduğu tablodaki renklere tıkla.
+
+	-Bölgelerin sahip olduğu bilgilerin içeriğe ulaşabilirsiniz.
+
+
+
